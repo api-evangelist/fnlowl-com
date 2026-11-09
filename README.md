@@ -1,4 +1,4 @@
-# fnlowl-com
+# FnlOwl
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,147 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-fnlowl-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://fnlowl.com/
+FnlOwl provides a widget that turns any blog post into an email capture tool, delivering lead magnets and automating follow‑up sequences. It combines lead capture, delivery, and nurturing in a single backend, eliminating the need for separate popup tools and email service providers. Pricing starts at $9 per month for the Stream plan, with higher tiers offering more features.
+
+**Areas:** LeadCapture · EmailAutomation · SaaS · MarketingTools · SmallBusiness
+
+## FnlOwl on APIs.io
+
+Everything profiled for FnlOwl is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fnlowl-com/](https://apis.io/providers/fnlowl-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (17)
+
+- [FnlOwl Advisor API](https://apis.io/apis/fnlowl-com/fnlowl-com-advisor-api/) — The advisor API from FnlOwl — 3 operation(s) for advisor.
+- [FnlOwl Analytics API](https://apis.io/apis/fnlowl-com/fnlowl-com-analytics-api/) — The analytics API from FnlOwl — 4 operation(s) for analytics.
+- [FnlOwl Billing API](https://apis.io/apis/fnlowl-com/fnlowl-com-billing-api/) — The billing API from FnlOwl — 5 operation(s) for billing.
+- [FnlOwl Campaigns API](https://apis.io/apis/fnlowl-com/fnlowl-com-campaigns-api/) — The campaigns API from FnlOwl — 3 operation(s) for campaigns.
+- [FnlOwl Capture API](https://apis.io/apis/fnlowl-com/fnlowl-com-capture-api/) — The capture API from FnlOwl — 8 operation(s) for capture.
+- [FnlOwl Chat API](https://apis.io/apis/fnlowl-com/fnlowl-com-chat-api/) — The chat API from FnlOwl — 1 operation(s) for chat.
+- [FnlOwl Developer API](https://apis.io/apis/fnlowl-com/fnlowl-com-developer-api/) — The developer API from FnlOwl — 4 operation(s) for developer.
+- [FnlOwl Email API](https://apis.io/apis/fnlowl-com/fnlowl-com-email-api/) — The email API from FnlOwl — 7 operation(s) for email.
+- [FnlOwl Identity API](https://apis.io/apis/fnlowl-com/fnlowl-com-identity-api/) — The identity API from FnlOwl — 4 operation(s) for identity.
+- [FnlOwl Integrations API](https://apis.io/apis/fnlowl-com/fnlowl-com-integrations-api/) — The integrations API from FnlOwl — 23 operation(s) for integrations.
+- [FnlOwl Leads API](https://apis.io/apis/fnlowl-com/fnlowl-com-leads-api/) — The leads API from FnlOwl — 5 operation(s) for leads.
+- [FnlOwl OAuth API](https://apis.io/apis/fnlowl-com/fnlowl-com-oauth-api/) — The oauth API from FnlOwl — 4 operation(s) for oauth.
+- [FnlOwl Sequences API](https://apis.io/apis/fnlowl-com/fnlowl-com-sequences-api/) — The sequences API from FnlOwl — 5 operation(s) for sequences.
+- [FnlOwl Settings API](https://apis.io/apis/fnlowl-com/fnlowl-com-settings-api/) — The settings API from FnlOwl — 14 operation(s) for settings.
+- [FnlOwl Signin API](https://apis.io/apis/fnlowl-com/fnlowl-com-signin-api/) — The signin API from FnlOwl — 6 operation(s) for signin.
+- [FnlOwl Transactional API](https://apis.io/apis/fnlowl-com/fnlowl-com-transactional-api/) — The transactional API from FnlOwl — 3 operation(s) for transactional.
+- [FnlOwl Widgets API](https://apis.io/apis/fnlowl-com/fnlowl-com-widgets-api/) — The widgets API from FnlOwl — 6 operation(s) for widgets.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Fnlowl Com Webhooks](https://apis.io/asyncapis/fnlowl-com/fnlowl-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Fnlowl Com Agentic Access](https://apis.io/agentic-access/fnlowl-com/fnlowl-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AnalyticsOverview](https://apis.io/schemas/fnlowl-com/fnlowl-com-analytics-overview/)
+- [PublicWidget](https://apis.io/schemas/fnlowl-com/fnlowl-com-public-widget/)
+- [Widget](https://apis.io/schemas/fnlowl-com/fnlowl-com-widget/)
+- [WidgetCreate](https://apis.io/schemas/fnlowl-com/fnlowl-com-widget-create/)
+- [WidgetPatch](https://apis.io/schemas/fnlowl-com/fnlowl-com-widget-patch/)
+- [WidgetResults](https://apis.io/schemas/fnlowl-com/fnlowl-com-widget-results/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Fnlowl Com Context](https://apis.io/jsonld/fnlowl-com/fnlowl-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [FnlOwl API Rules](https://apis.io/rules/fnlowl-com/fnlowl-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fnlowl Com Authentication](https://apis.io/security/fnlowl-com/fnlowl-com-authentication/)
+- [Fnlowl Com Domain Security](https://apis.io/security/fnlowl-com/fnlowl-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Fnlowl Com Plans Pricing](https://apis.io/plans/fnlowl-com/fnlowl-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fnlowl.com/)
+- [Getting started](https://fnlowl.com/docs/get-started/quickstart)
+- [API reference](https://fnlowl.com/docs/reference/)
+- [Sign up](https://fnlowl.com/articles/sign-up-for-email-list-wordpress-list-building/)
+
+## API Evangelist rating
+
+**Kin Score 47.8** — developing · rubric 0.27.0 · scored 2026-11-08
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 57.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 41.6 |
+
+**Agent readiness 51.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fnlowl-com/](https://apis.io/providers/fnlowl-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for FnlOwl: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fnlowl-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
